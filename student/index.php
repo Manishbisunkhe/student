@@ -3,7 +3,7 @@
 <html>
 
 <head>
-    <title>student record</title>
+    <title>student </title>
     <link rel="stylesheet" type="text/css" href="css/forms.css">
     <link rel="shortcut icon" type="x-icon" href="Vector.svg">
     <style>
